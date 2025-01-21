@@ -1,27 +1,37 @@
-# AmazingAnimalPaintings
+# Amazing Animal Paintings
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+A collection of amazing animal paintings presented in a visually engaging and interactive format. This project highlights the beauty of animals through artistic creations, allowing users to explore, admire, and interact with the collection.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## **Features**
+- **Beautiful Animal Paintings**: Showcases high-quality artistic representations of animals.
+- **Interactive Gallery**: Users can browse through an interactive gallery of paintings.
+- **Responsive Design**: Optimized for desktop and mobile devices.
+- **Lightweight and Fast**: Efficiently loads images for seamless exploration.
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## **Getting Started**
 
-## Build
+### **Prerequisites**
+To run this project locally, ensure you have the following:
+- **Node.js** (if using a development server).
+- A modern web browser (e.g., Chrome, Firefox, Edge).
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Installation
+Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/amazing-animal-paintings.git
+```
 
-## Running unit tests
+### Install Dependencies
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run the following command to install all required dependencies:\
+`npm install`
 
-## Running end-to-end tests
+### Run the Development Server
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Start the application in development mode:\
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+`npm start`
